@@ -3,8 +3,7 @@
 This folder contains my notes and exercises from the first course of the Python 3 Programming Specialization.
 
 Topics:
-
--introduction
+- introduction
 - Variables
 - Conditionals
 - Loops
