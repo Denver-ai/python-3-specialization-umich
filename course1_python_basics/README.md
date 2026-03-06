@@ -2,10 +2,11 @@
 
 This folder contains my notes and exercises from the first course of the Python 3 Programming Specialization.
 
-Topics:
-- introduction
+## Topics
+
+- Introduction
 - Variables
 - Conditionals
 - Loops
 - Functions
-- Basic problem solving
+- Basic problem solving Basic problem solving
